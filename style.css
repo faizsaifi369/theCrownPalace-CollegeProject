@@ -48,7 +48,7 @@
 }
 .backgroundImg{
     min-height: 100vh;
-    /* min-width: 100vw; */
+    min-width: 100vw;
     background-image:url("frontslidder\ -\ Copy.jpg");
     background-size:cover;
     filter: blur(2px);
